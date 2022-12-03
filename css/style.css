@@ -1,0 +1,212 @@
+.conteiner{
+    width: 100%;
+    height: 800px;
+    margin: 0 auto;
+    background-color: rgb(3, 3, 78);
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 106px;
+    height: 32px;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    display: flex;
+    margin-top: 55px;
+    padding-left: 60px;
+
+}
+.nav-list{
+    display: flex;
+    column-gap: 33px;
+    margin-right: 235px;
+    margin-top: 55px;
+
+}
+.nav-list{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #FFFFFF;
+    display: flex;
+}
+.nav-dns{
+    width: 120px;
+    height: 40px;
+    border-radius: 100px;
+    background-color: #E93A7D;
+    display: flex;
+}
+.text-dns{
+    padding-left: 21px;
+    padding-top: 11px;
+    font-size: 18px;
+    color: #FFFFFF
+}
+/* box-1 */
+
+.box1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 200px; 
+    margin-top: 90px;
+
+}
+.box-title{
+    font-family: 'DM Sans', sans-serif;
+    width: 423px;
+    height: 217px;
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 70px;
+    color: #FFFFFF;
+}
+.box-text{
+    width: 363px;
+    height: 160px;
+    font-size: 22px;
+    line-height: 32px;
+    color: #FFFFFF;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    line-height: 32px;
+    margin-top: 24px;
+}   
+.box-dns{
+    height: 50px;
+    width: 157px;
+    background-color: #E93A7D;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    border-radius: 100px;
+    padding-left: 37px;
+    padding-top: 16px;
+    color: #FFFFFF;
+    margin-top: 55px;
+
+}
+ /*box-2  */
+
+ .box2{
+    width: 400px;
+    height: 590px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0px;
+    margin-top: 75px;
+    margin-left: 140px;
+ }
+ .register-title{
+    margin: 34px;
+    width: 300px;
+    height: 52px;
+    color: #1E0E62;
+    font-size: 42px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;  
+ }
+ .email{
+    width: 330px;
+    height: 50px;
+    border-radius: 100px;
+    background-color: #EBEAED;
+    padding-left: 24px;
+    padding-top: 15px;
+ }
+ .email-text{
+    font-size: 18px;
+    color: #151439;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;  
+ }
+ .password{
+    width: 330px;
+    height: 50px;
+    border-radius: 100px;
+    background-color: #EBEAED;
+    padding-left: 24px;
+    padding-top: 15px;
+    margin-top: 20px;
+ }
+ .password-text{
+    font-size: 18px;
+    color: #151439;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+ }
+ .text1{
+    margin-top: 25px;
+    margin-right: 100px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 27px;
+ }
+ .sign-up{
+    width: 330px;
+    height: 50px;
+    border-radius: 100px;
+    background-color: #482BE7;
+ }
+ .sign-up-text{
+    padding: 15px 130px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+ }
+ .line{
+    display: flex;
+ }
+ .line-1{
+    width: 141px;
+    height: 5px;
+    color: #EBEAED;
+    border: 2px solid #EBEAED;
+    background-color: #EBEAED;
+    margin-top: 30px;
+ }
+ .line-text{
+    margin-top: 23px;
+    padding: 0 9px;
+ }
+ .twit-login{
+    width: 330px;
+    height: 50px;
+    border-radius: 100px;
+    background-color: #1DA1F2;
+    margin-top: 30px;
+ }
+ .twit-text{
+    padding: 16px 96px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+ }
+  .acc{
+    display: flex; 
+  } 
+ .acc-have{
+    width: 215px;
+    height: 28px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    margin-top: 20px;
+ }
+ .acc-sign{
+    color: #25DAC5;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    margin-top: 20px;
+ }
+ .group{
+   display: flex;
+ }
